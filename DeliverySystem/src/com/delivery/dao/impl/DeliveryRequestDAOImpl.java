@@ -43,7 +43,7 @@ public class DeliveryRequestDAOImpl implements DeliveryRequestDAO {
 	public DeliveryRequest getDeliveryRequest(DeliveryRequest deliveryRequest) {
 		// TODO Auto-generated method stub
 		return null;
-	}
+	}  
 
 	@Override
 	public ArrayList<DeliveryRequest> getAllDeliveryRequests(User user,
